@@ -1,0 +1,10 @@
+.contenedor {}
+
+.contenedor img {
+    width: 100px;
+    padding: 0.2rem 0.2rem 0.2rem 0.2rem;
+}
+
+.tamanio-fila {
+    width: 50px;
+}
